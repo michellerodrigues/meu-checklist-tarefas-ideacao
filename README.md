@@ -1,2 +1,19 @@
 # meu-checklist-tarefas-ideacao
 Lean Inception, Backlog do Produto e Prototipo Jira
+
+Entrega MVP3 – Pós Graduação PUC-RIO – CCE – Engenhadia de Software
+Disciplina: Gestão ágil de Produto e Projeto
+Product Backlog – Jira (SCRUM)– MeuCheckListTarefas – Por Michelle Rodrigues
+
+1 - Lean Inception 
+Link Miro: https://miro.com/app/board/uXjVJLtvz5U=/?share_link_id=306896344798
+
+2 - Backlog do Produto
+2.1 - Link do Jira: https://micamsr-1757197552166.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiYWViMmM2NjlmZmIwNGY3Nzk2MzI3ZTM4NjU2Zjg0MDEiLCJwIjoiaiJ9
+2.2 - Disponível tbm no pdf: 
+
+3 - Link Protótipo navegável
+3.1 - Link do Figma: https://www.figma.com/proto/coH1dswWjBXvOQYp27gOnf/Meu-Checklist-Tarefas-MVP3?node-id=307-127&p=f&t=xpRNGm6m56OfBppr-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=307%3A127
+3.2 - Disponível tbm no pdf: 
+
+
