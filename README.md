@@ -5,6 +5,7 @@ Entrega MVP3 – Pós Graduação PUC-RIO – CCE – Engenhadia de Software
 Disciplina: Gestão ágil de Produto e Projeto
 Product Backlog – Jira (SCRUM)– MeuCheckListTarefas – Por Michelle Rodrigues
 
+**LINK VIDEO APRESENTAÇÃO: https://youtu.be/1hNTMv1JgoQ
 **1 - Lean Inception**
 
 1.1 - Link Miro: https://miro.com/app/board/uXjVJLtvz5U=/?share_link_id=306896344798
