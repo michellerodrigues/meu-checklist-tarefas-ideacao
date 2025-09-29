@@ -15,7 +15,7 @@ Product Backlog – Jira (SCRUM)– MeuCheckListTarefas – Por Michelle Rodrigu
 
      2.1 - Link do Jira: https://micamsr-1757197552166.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiYWViMmM2NjlmZmIwNGY3Nzk2MzI3ZTM4NjU2Zjg0MDEiLCJwIjoiaiJ9
 
-     2.2 - Disponível tbm no pdf: Jira - Backlog do Produto - MeuCheckListTarefas.pdf
+     2.2 - Disponível tbm no pdf: https://github.com/michellerodrigues/meu-checklist-tarefas-ideacao/blob/4d90ac63f5a54fd8b870f1a58d7b3096902afafa/Jira%20-%20Backlog%20do%20Produto%20-%20MeuCheckListTarefas.pdf
 
 **3 - Link Protótipo navegável**
 
